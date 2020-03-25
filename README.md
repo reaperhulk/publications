@@ -164,6 +164,8 @@
 
 | Product | Review Date | Level of Effort | Announcement |
 | --- | --- | --- | --- |
+| [Voatz](https://voatz.com/) | Feb 2020 | [12 person-weeks](https://github.com/trailofbits/publications/blob/master/reviews/voatz-securityreview.pdf) | [Our Full Report on the Voatz Mobile Voting Platform](https://blog.trailofbits.com/2020/03/13/our-full-report-on-the-voatz-mobile-voting-platform/) |
+|  |  | [Threat Model](https://github.com/trailofbits/publications/blob/master/reviews/voatz-threatmodel.pdf) | (Part of the 12 person-week security review) | 
 | [Voice](http://block.one/) | Jan 2020 | 4 person-weeks |  |
 | [SweetB](https://www.westerndigital.com/) | Jan 2020 | 4 person-weeks |  |
 | [Kubernetes](https://kubernetes.io/) | May 2019 | [2 person-weeks](https://github.com/trailofbits/audit-kubernetes/blob/master/reports/Kubernetes%20Threat%20Model.pdf) |
